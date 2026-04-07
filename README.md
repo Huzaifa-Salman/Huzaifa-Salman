@@ -34,7 +34,7 @@ I build things that work full stack web apps, computer vision tools, and everyth
 
 ## 🚀 Featured Projects
 
-### 🧥 [Virtual Fashion Fit](https://github.com/huzaifa-salman/virtual-fashion-fit)
+### 🧥 [Virtual Fashion Fit]([https://github.com/huzaifa-salman/virtual-fashion-fit](https://github.com/ToheedAsghar/Virtual-Fashion-Fit/tree/virtual_fashion_fit))
 > Real-time virtual try-on web app for traditional outfits using computer vision
 
 - Garment detection, body alignment & overlay using CV techniques
@@ -43,7 +43,7 @@ I build things that work full stack web apps, computer vision tools, and everyth
 
 ---
 
-### 🛒 [Gadget Gourmet](https://github.com/huzaifa-salman/gadget-gourmet)
+### 🛒 [Gadget Gourmet](https://github.com/Huzaifa-Salman/Gadget_Gourmet)
 > Full-stack e-commerce platform built on .NET
 
 - Auth system, inventory management, and secure checkout
