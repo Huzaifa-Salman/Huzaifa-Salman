@@ -1,4 +1,4 @@
-# Hi, I'm Huzaifa Salman 👋
+# Hi, I'm Huzaifa Salman
 
 **Computer Science Graduate · PUCIT Lahore '25 · Junior Software Engineer**
 
@@ -6,7 +6,7 @@ I build things that work full stack web apps, computer vision tools, and everyth
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -32,9 +32,9 @@ I build things that work full stack web apps, computer vision tools, and everyth
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧥 [Virtual Fashion Fit](https://github.com/ToheedAsghar/Virtual-Fashion-Fit/tree/virtual_fashion_fit)
+### [Virtual Fashion Fit](https://github.com/ToheedAsghar/Virtual-Fashion-Fit/tree/virtual_fashion_fit)
 > Real-time virtual try-on web app for traditional outfits using computer vision
 
 - Garment detection, body alignment & overlay using CV techniques
@@ -43,7 +43,7 @@ I build things that work full stack web apps, computer vision tools, and everyth
 
 ---
 
-### 🛒 [Gadget Gourmet](https://github.com/Huzaifa-Salman/Gadget_Gourmet)
+### [Gadget Gourmet](https://github.com/Huzaifa-Salman/Gadget_Gourmet)
 > Full-stack e-commerce platform built on .NET
 
 - Auth system, inventory management, and secure checkout
@@ -62,15 +62,15 @@ I build things that work full stack web apps, computer vision tools, and everyth
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🧠 **100+ problems** solved on LeetCode & Codeforces
-- 🏅 Participated in Hackathons like **PUCON**, Lahore
-- 🎓 BS CS from **PUCIT** — CGPA 3.13
+-  **100+ problems** solved on LeetCode & Codeforces
+-  Participated in Hackathons like **PUCON**, Lahore
+-  BS CS from **PUCIT** — CGPA 3.13
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifa-salman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huzaifasalmaan@hotmail.com)
