@@ -38,8 +38,8 @@ I build things that work full stack web apps, computer vision tools, and everyth
 > Real-time virtual try-on web app for traditional outfits using computer vision
 
 - Garment detection, body alignment & overlay using CV techniques
-- Previously deployed on **Hugging Face** — no local setup needed
-- `Python` `Computer Vision` `Hugging Face`
+- Optimized garment overlay using fine tuning on curated traditional attire datasets
+- `Python` `Computer Vision`
 
 ---
 
